@@ -3,7 +3,9 @@ title: "Constraint Acquisition: Learning Constraint Models from Data"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-07-14-ACP-Summer-School
-excerpt: 'A Test [Click for more](/talks/2023-07-14-ACP-Summer-School)'
+excerpt: 'The basic assumption in CP is that the user models the problem, and a solver is then used to solve it. However, expressing a combinatorial problem as a constraint model is not always straightforward. As a result, modelling is considered to be a bottleneck for the wider use of CP. To overcome this obstacle, several techniques have been proposed for modeling a constraint problem (semi-)automatically. In constraint acquisition, the model of a constraint problem is acquired (i.e., learned) using a set of examples of solutions, and possibly non-solutions.
+
+ [Click for more](/talks/2023-07-14-ACP-Summer-School)'
 venue: "ACP Summer School"
 date: 2023-07-14
 location: "Leuven, Belgium"
