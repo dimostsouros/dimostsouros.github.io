@@ -1,5 +1,5 @@
 ---
-title: "Parallelization and energy evaluation of interframe compression technique for video images—QSDPCM"
+title: "Parallelization and energy evaluation of interframe compression technique for video images - QSDPCM"
 collection: publications
 permalink: /publication/2017-01-01-Parallelization-and-energy-evaluation-of-interframe-compression-technique-for-video-imagesQSDPCM
 date: 2017-01-01
