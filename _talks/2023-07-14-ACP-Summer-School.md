@@ -3,6 +3,7 @@ title: "Constraint Acquisition: Learning Constraint Models from Data"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-07-14-ACP-Summer-School
+excerpt: 'A Test [Click for more](/talks/2023-07-14-ACP-Summer-School)'
 venue: "ACP Summer School"
 date: 2023-07-14
 location: "Leuven, Belgium"
