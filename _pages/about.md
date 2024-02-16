@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a researcher in AI, with my research interests including, but not being limited to, the following:
-Constraint Programming, Machine Learning, Artificial Intelligence, Combinatorial Optimization, Bioinformatics.
+Constraint Programming, Machine Learning, Artificial Intelligence, Combinatorial Optimization.
 
 I currently am a Post-Doc researcher at KU Leuven, in the Declarative Languages and Artificial Intelligence (DTAI) section of Computer Science, collaborating with Prof. Tias Guns. 
 
