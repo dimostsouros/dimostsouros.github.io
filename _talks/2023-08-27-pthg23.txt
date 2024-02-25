@@ -5,7 +5,7 @@ type: "Presentation"
 permalink: /talks/2023-08-27-pthg23
 venue: "CP 2023 - PTHG Workshop"
 excerpt_separator: <!--more-->
-date: 2023-08-29
+date: 2023-08-27
 location: "Toronto, Canada"
 ---
 
