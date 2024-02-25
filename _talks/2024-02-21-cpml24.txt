@@ -1,0 +1,17 @@
+---
+title: "Invited talk: Chatbots and LLMs for Constraint Programming: Opportunities and Challenges - With Serdar Kadioğlu"
+collection: talks
+type: "Talk"
+permalink: /talks/2024-02-21-cpml24
+venue: "AAAI 2024 - CPML Bridge"
+excerpt_separator: <!--more-->
+date: 2024-02-21
+location: "Vancouver, Canada"
+---
+
+Twenty-seven years ago, E. Freuder highlighted that "Constraint programming represents one of the closest approaches computer science has yet made to the Holy Grail of programming: the user states the problem, the computer solves it". Nowadays, CP users have great modeling tools available (like Minizinc and CPMpy), allowing them to formulate the problem and then let a solver do the rest of the job, getting closer to the stated goal. However, this still requires the CP user to know the formalism and respect it. Another significant challenge lies in the expertise required to effectively model combinatorial problems. All this limits the wider adoption of CP. In this discussion, we investigated how to leverage NLP approaches to model constraint problems from textual description. We discussed bottom-up and top-down approaches, by either building each required component (e.g., variables, constraints, objective, etc.) and then combining them together, or using pre-trained Large Language Models to directly extract the models. We presented early results with both.
+
+<!--more-->
+
+
+[Slides](https://dimostsouros.github.io/files/cpml24_AAAI.pdf)
