@@ -1,0 +1,34 @@
+---
+title: "Holy Grail 2.0: From Natural Language to Constraint Models."
+collection: talks
+type: "Presentation"
+permalink: /talks/2023-08-29-cp23
+venue: "CP 2023"
+excerpt_separator: <!--more-->
+date: 2023-08-29
+location: "Toronto, Canada"
+---
+
+Constraint Acquisition (CA) systems can be used to assist in the modeling of constraint satisfaction
+problems. In (inter)active CA, the system is given a set of candidate constraints and posts queries
+to the user with the goal of finding the right constraints among the candidates. Current interactive
+CA algorithms suffer from at least two major bottlenecks. First, in order to converge, they require a
+large number of queries to be asked to the user. Second, they cannot handle large sets of candidate
+constraints, since these lead to large waiting times for the user. For this reason, the user must
+have fairly precise knowledge about what constraints the system should consider. In this presentation, I discuss how
+we alleviated these bottlenecks in our CP2023 paper, presenting our two novel methods that improve the efficiency of CA.
+
+<!--more-->
+
+I first focused on our new query generation method, namely PQ-GEN, that allows the use of openly accessible CP solvers in query generation.
+Then, I presented our bottom-up approach named GrowAcq, which reduces the maximum waiting
+time for the user and allows the system to handle much larger sets of candidate constraints. 
+I finally focused on the probability-based method to guide query generation that we proposed and showed
+that it can significantly reduce the number of queries required to converge. Experimental results are presented in the end, showing that our proposed methods outperform state-of-the-art CA
+methods, reducing the number of queries by up to 60%. I also focused on the fact that our methods work well even in cases where
+the set of candidate constraints is 50 times larger than the ones commonly used in the literature.
+
+
+[Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CP.2023.36)
+
+[Slides](https://dimostsouros.github.io/files/constraint_acquisition_cp2023.pdf)
