@@ -1,0 +1,48 @@
+---
+title: 'Can LLMs reason, plan and predict? And should they?'
+date: 2024-02-26
+permalink: /posts/2024/02/llms-reason/
+tags:
+  - opinions
+  - LLMs
+  - AAAI24
+---
+
+A few days ago, AAAI24 had a nice panel on the implications of LLMs [1], with many interesting ideas and an engaging discussion between the panellists. The first part of the panel basically focused on the question "Can LLMs reason and plan". There were some disagreements, having their roots mainly on different definitions of reasoning and planning among the panellists.
+
+I will generalize this question, as reasoning and planning are not the only skills that AI needs to have, so I will include also predicting.
+So, I reform the question to **"Can LLMs actually tackle what other areas of AI have tackled?"** For example, can they reason to solve combinatorial problems? Can they find a plan involving an optimal sequence of actions to a goal? Can they get data for a specific domain and learn to predict? 
+
+In the AI community, most will agree that right now the answer to the above is clearly "no" [2]! LLMs are Large Language Models, they their ability to generate humanlike text, "understanding" the context of each specific discussion, is indeed incredibly powerful. But their reasoning, predicting and planning capabilities are dependent on "the probability of the next token", and they do not actually using reasoning techniques that are well established in AI research. And this is shown in practice, with LLMs failing to solve even very simple puzzles, that are very trivial for other AI areas. 
+Let's take as an example the following problem: 
+
+"You are playing a game where a short shot is worth 2 points and a long shot is worth 5 points. In total, you can take at most 14 shots. You must take at least 5 short shots and 2 long shots, but time restricts taking more than 8 of either type. How many of each shot must you take, assuming all your shots get points, to maximize your score? What is your maximum score?" [3]
+
+The answer of ChatGPT (model GPT-3.5) was the following "The maximum score is achieved when taking 5 short shots and 9 long shots, resulting in a score of 55 points", which violates a simple constraint clearly given in the description "time restricts taking more than 8 of either type". If LLMs find it difficult reason on constraints and problems stated so explicitely, it is difficult to imagine them reasoning and solving complex problems that are currently tackled by Constraint Programming, SAT, Operation Research and other approaches.
+
+Some panellists mentioned that "We have to find out how to get these models to reason and plan" and that "these are things we will have to invent".
+
+But here is my main trouble!
+
+#### Should we find how to get LLMs to reason and plan?
+
+And actually, should they be able to reason and plan (and predict)? The AI community already knows how to reason, how to plan, how to predict, very well. There are impressive methods to tackle each of these problems, in different ways. So why should LLMs do that instead? Why re-invent the wheel?
+
+Indeed, such methods to reason, plan and predict have very specific assumptions and requirements on how the problem to tackle is formulated, they require expertise to transform the problem to the way they can handle, which keeps AI away from people's everyday life, even from industries that could benefit from them. And that is the main success of LLMs. The fact that they perform on the fundamental way that humans communicate, in natural language, it brought AI to everyone's home. And this way everyone could be impressed by its results, in contrast to methods that may required knowledge of mathematical modelling, programming and others.  
+
+The holy grail of computer sciense is to be able to "state a problem, and the computer solves it". The problem with such methods lies in the complexity of the first step.
+
+On the other hand, we have LLMs, that can process a problem statement in natural language, but have a problem on the second step: "the computer solves it".
+
+The holy-grail remains far away.
+
+we have on one hand technologies that can reason, plan and predict, but are not accessible to non-experts. On the other hand , we have LLMs that can perform on natural language, and can extract knowledge and facts from it, being accessible to everyone, but cannot reason, plan and predict. And here comes the actual question. 
+
+Why focus on re-inventing the wheel, trying to find out again how to reason, plan and predict, just with a different technology, instead of getting the best of both worlds? Do we want to be celebrating in 5 years that we managed to get LLMs to solve some problems that AI has already solved 50 years ago? And what will the benefit be from it?
+
+#### Towards the holy grail
+
+We have AI technologies that can reason plan and predict with great success, with ongoing research on improving them further, focusing on actual limitations from the industry and not on toy problems, with their main limitation aligning with the main advantage of LLMs, the accessibility to non-experts. And this is great news, because now AI has indeed the way to go forward a lot faster. Taking a step back from specific technologies (like LLM), we can say that now have AI that can reason, plan, predict and "understand" natural language. Just with different technologies, which though can be combined to reach the end goal.
+
+LLMs can be the key on "understanding the problem statement" and the well-established solving methods can "solve the problem". What we now have to do is to find how to (efficiently) go from the natural language to the formal problem specifications that such methods need!
+
