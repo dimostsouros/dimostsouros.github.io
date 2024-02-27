@@ -1,5 +1,5 @@
 ---
-title: "AAAI24: Learning to Learn in Interactive Constraint Acquisition"
+title: "Learning to Learn in Interactive Constraint Acquisition"
 collection: talks
 type: "Poster"
 permalink: /talks/2024-02-22-aaai24
