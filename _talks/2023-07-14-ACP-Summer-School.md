@@ -1,5 +1,5 @@
 ---
-title: "ACP Summer School 2023: Constraint Acquisition - Learning Constraint Models from Data"
+title: "ACP Summer School 2023: Constraint Acquisition - Learning Constraint Models from Data (video)"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-07-14-ACP-Summer-School

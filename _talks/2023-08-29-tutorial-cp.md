@@ -1,5 +1,5 @@
 ---
-title: "Explainable Constraint Solving - A Hands-On Tutorial"
+title: "Explainable Constraint Solving - A Hands-On Tutorial (video)"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2023-08-29-tutorial-cp
