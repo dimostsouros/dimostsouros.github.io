@@ -1,0 +1,15 @@
+---
+title: "Constraint Modelling with LLMs Using In-Context Learning"
+collection: talks
+type: "Presentation"
+permalink: /talks/2025-02-26-cpml-icl
+venue: "CPML 2025"
+excerpt_separator: <!--more-->
+date: 2025-02-26
+location: "Philadelphia, USA"
+---
+
+Constraint Programming (CP) allows for the modelling and solving of a wide range of combinatorial problems. However, modelling such problems using constraints over decision variables still requires significant expertise, both in conceptual thinking and syntactic use of modelling languages. In this work, we explore the potential of using pre-trained Large Language Models (LLMs) as coding assistants, to transform textual problem descriptions into concrete and executable CP specifications.
+We present different transformation pipelines with explicit intermediate representations, and we investigate the potential benefit of various retrieval-augmented example selection strategies for in-context learning. We evaluate our approach on 2 datasets from the literature, namely NL4Opt (optimisation) and Logic Grid Puzzles (satisfaction), and a heterogeneous set of exercises from a CP course. The results show that pre-trained LLMs have promising potential for initialising the modelling process, with retrieval-augmented in-context learning significantly enhancing their modelling capabilities.
+
+[slides](https://dimostsouros.github.io/files/Tsouros_ICL.pptx)
