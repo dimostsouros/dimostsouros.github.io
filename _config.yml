@@ -13,9 +13,9 @@ name                     : &name "Dimos Tsouros"
 description              : &description "I am a researcher in AI, with my research interests including, but not being limited to, the following:
 Constraint Programming, Machine Learning, Artificial Intelligence, Combinatorial Optimization, Bioinformatics.
 
-I currently am a Post-Doc researcher at KU Leuven, in the Declarative Languages and Artificial Intelligence (DTAI) section of Computer Science. 
+I currently am a Lecturer and Researcher at University of Western Macedonia, in the Intelligent Systems and Optimization (IsOpt) Laboratory. 
 
-I studied Informatics and Telecommunications Engineering at the University of Western Macedonia, Kozani, Greece. After receiving my diploma, I continued doing my Ph.D. on the integration of Constraint Programming and Machine Learning for assisting in the modeling process using learning techniques. I received my Ph.D. from the Department of Electrical and Computer Engineering of the University of Western Macedonia, in 2021. During my Ph.D., I worked as a researcher on several research projects."
+I studied Informatics and Telecommunications Engineering at the University of Western Macedonia, Kozani, Greece. After receiving my diploma, I continued doing my Ph.D. on the integration of Constraint Programming and Machine Learning for assisting in the modeling process using learning techniques. I received my Ph.D. from the Department of Electrical and Computer Engineering of the University of Western Macedonia, in 2021. During my Ph.D., I worked as a researcher on several research projects. From 2022 to 2025, I was a Post-Doc researcher at KU Leuven, in the Declarative Languages and Artificial Intelligence (DTAI) section of Computer Science."
 url                      : https://dimostsouros.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dimosts/dimostsouros.github.io"
@@ -87,12 +87,12 @@ analytics:
 author:
   name             : "Dimos Tsouros"
   avatar           : "picture_tsouros2.png"
-  bio              : "Post-Doc Researcher"
-  location         : "Leuven, Belgium"
-  employer         : "KU Leuven"
+  bio              : "Lecturer and Researcher"
+  location         : "Kozani, Greece"
+  employer         : "University of Western Macedonia"
   pubmed           : 
   googlescholar    : "https://scholar.google.gr/citations?user=qFrNdPAAAAAJ&hl"
-  email            : "dimos.tsouros@kuleuven.be"
+  email            : "dtsouros@uowm.gr"
   researchgate     :  "https://www.researchgate.net/profile/Dimos-Tsouros"
   uri              :
   bitbucket        :

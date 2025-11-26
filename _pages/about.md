@@ -11,7 +11,7 @@ redirect_from:
 I am a researcher in AI, with my research interests including, but not being limited to, the following:
 Constraint Programming, Machine Learning, Artificial Intelligence, Combinatorial Optimization.
 
-I currently am a Post-Doc researcher at KU Leuven, in the Declarative Languages and Artificial Intelligence (DTAI) section of Computer Science, collaborating with Prof. Tias Guns. 
+I currently am a Lecturer and Researcher at University of Western Macedonia, in the Intelligent Systems and Optimization (IsOpt) Laboratory. From 2022 to 2025 I was a Post-Doc researcher at KU Leuven, in the Declarative Languages and Artificial Intelligence (DTAI) section of Computer Science. 
 
 I studied Informatics and Telecommunications Engineering at the University of Western Macedonia, Kozani, Greece. After receiving my diploma, I continued doing my Ph.D. on the integration of Constraint Programming and Machine Learning for assisting in the modeling process using learning techniques, with my supervisor being Prof. Kostas Stergiou. I received my Ph.D. from the Department of Electrical and Computer Engineering of the University of Western Macedonia, in 2021. During my Ph.D., I worked as a researcher on several research projects.
 
