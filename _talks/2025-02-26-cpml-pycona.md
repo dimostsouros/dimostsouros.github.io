@@ -13,7 +13,7 @@ Constraint Programming (CP) has been successfully used to model and solve comple
 
 [Demo](https://dimostsouros.github.io/files/Tutorial-Demo.ipynb)
 
-[paper](https://dimostsouros.github.io/files/CPML_AAAI25_Pycona)
+[paper](https://dimostsouros.github.io/files/CPML_AAAI25_Pycona.pdf)
 
 [repo](https://github.com/CPMpy/PyConA)
 
