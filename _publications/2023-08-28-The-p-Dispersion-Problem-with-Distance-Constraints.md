@@ -1,8 +1,8 @@
 ---
 title: "The p-Dispersion Problem with Distance Constraints"
 collection: publications
-permalink: /publication/2023-01-01-The-p-Dispersion-Problem-with-Distance-Constraints
-date: 2023-01-01
+permalink: /publication/2023-08-28-The-p-Dispersion-Problem-with-Distance-Constraints
+date: 2023-08-28
 venue: 'In the proceedings of 29th International Conference on Principles and Practice of Constraint Programming (CP 2023)'
 citation: ' Nikolaos Ploskas,  Kostas Stergiou,  Dimosthenis Tsouros, &quot;The p-Dispersion Problem with Distance Constraints.&quot; In the proceedings of 29th International Conference on Principles and Practice of Constraint Programming (CP 2023), 2023.'
 ---

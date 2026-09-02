@@ -1,8 +1,8 @@
 ---
 title: "A review on UAV-based applications for precision agriculture"
 collection: publications
-permalink: /publication/2019-01-01-A-review-on-UAV-based-applications-for-precision-agriculture
-date: 2019-01-01
+permalink: /publication/2019-11-11-A-review-on-UAV-based-applications-for-precision-agriculture
+date: 2019-11-11
 venue: 'Information'
 citation: ' Dimosthenis Tsouros,  Stamatia Bibi,  Panagiotis Sarigiannidis, &quot;A review on UAV-based applications for precision agriculture.&quot; Information, 2019.'
 ---

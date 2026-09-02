@@ -1,8 +1,8 @@
 ---
 title: "Learning max-csps via active constraint acquisition"
 collection: publications
-permalink: /publication/2021-01-01-Learning-max-csps-via-active-constraint-acquisition
-date: 2021-01-01
+permalink: /publication/2021-10-25-Learning-max-csps-via-active-constraint-acquisition
+date: 2021-10-25
 venue: 'In the proceedings of 27th International Conference on Principles and Practice of Constraint Programming (CP 2021)'
 citation: ' Dimosthenis Tsouros,  Kostas Stergiou, &quot;Learning max-csps via active constraint acquisition.&quot; In the proceedings of 27th International Conference on Principles and Practice of Constraint Programming (CP 2021), 2021.'
 ---

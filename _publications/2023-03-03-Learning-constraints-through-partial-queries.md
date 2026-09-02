@@ -1,8 +1,8 @@
 ---
 title: "Learning constraints through partial queries"
 collection: publications
-permalink: /publication/2023-01-01-Learning-constraints-through-partial-queries
-date: 2023-01-01
+permalink: /publication/2023-03-03-Learning-constraints-through-partial-queries
+date: 2023-03-03
 venue: 'Artificial Intelligence'
 citation: ' Christian Bessiere,  Clement Carbonnel,  Anton Dries,  Emmanuel Hebrard,  George Katsirelos,  Nina Narodytska,  Claude-Guy Quimper,  Kostas Stergiou,  Dimosthenis Tsouros,  Toby Walsh, &quot;Learning constraints through partial queries.&quot; Artificial Intelligence, 2023.'
 ---
