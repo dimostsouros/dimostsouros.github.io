@@ -2,7 +2,8 @@
 title: "Generalizing Constraint Models in Constraint Acquisition"
 collection: publications
 permalink: /publication/2024-09-02-Generalizing-Constraint-Models-in-Constraint-Acquisition
-date: 2024-09-02
+date: 2024-09-02
+paperurl: 'https://dimostsouros.github.io/files/GenConModels_PTHG.pdf'
 venue: 'In the proceedings of CP24 workshop on Progress Towards the Holy Grail'
 citation: ' Dimos Tsouros,  Steven Prestwich,  Tias Guns, &quot;Generalizing Constraint Models in Constraint Acquisition.&quot; In the proceedings of CP24 workshop on Progress Towards the Holy Grail, 2024.'
 ---

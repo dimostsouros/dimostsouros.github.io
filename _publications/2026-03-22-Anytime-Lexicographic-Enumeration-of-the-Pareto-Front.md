@@ -2,7 +2,8 @@
 title: "Anytime Lexicographic Enumeration of the Pareto Front in Multi-Objective Combinatorial Optimisation"
 collection: publications
 permalink: /publication/2026-03-22-Anytime-Lexicographic-Enumeration-of-the-Pareto-Front
-date: 2026-03-22
+date: 2026-03-22
+paperurl: 'https://doi.org/10.1002/mcda.70029'
 venue: 'Journal of Multi-Criteria Decision Analysis'
 citation: 'Marco Foschini, Dimos Tsouros, Bistra Dilkina, Tias Guns, &quot;Anytime Lexicographic Enumeration of the Pareto Front in Multi-Objective Combinatorial Optimisation.&quot; Journal of Multi-Criteria Decision Analysis, 33(1), e70029, 2026.'
 ---

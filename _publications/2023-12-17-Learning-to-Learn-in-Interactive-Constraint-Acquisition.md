@@ -2,7 +2,8 @@
 title: "Learning to Learn in Interactive Constraint Acquisition"
 collection: publications
 permalink: /publication/2023-12-17-Learning-to-Learn-in-Interactive-Constraint-Acquisition
-date: 2023-12-17
+date: 2023-12-17
+paperurl: 'https://arxiv.org/pdf/2312.10795'
 venue: 'arXiv preprint arXiv:2312.10795'
 citation: ' Dimos Tsouros,  Senne Berden,  Tias Guns, &quot;Learning to Learn in Interactive Constraint Acquisition.&quot; arXiv preprint arXiv:2312.10795, 2023.'
 ---

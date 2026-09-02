@@ -1,0 +1,233 @@
+﻿[
+    {
+        "File":  "2024-09-03-Mutational-Fuzz-Testing-for-Constraint-Modeling-Systems",
+        "DOI":  "10.4230/LIPIcs.CP.2024.29",
+        "PDF":  "",
+        "Host":  "",
+        "IsOA":  false
+    },
+    {
+        "File":  "2019-10-28-Automated-assessment-of-pain-intensity-based-on-EEG-signal-analysis",
+        "DOI":  "10.1109/BIBE.2019.00111",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2026-03-22-Anytime-Lexicographic-Enumeration-of-the-Pareto-Front",
+        "DOI":  "10.1002/mcda.70029",
+        "PDF":  "https://doi.org/10.1002/mcda.70029",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2020-11-20-Towards-a-Fully-Open-Source-System-for-Monitoring-of-Crops-with-UAVs-in-Precision-Agriculture",
+        "DOI":  "10.1145/3437120.3437334",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2026-08-15-Efficient-Reformulations-of-Half-reified-Global-Constraints",
+        "DOI":  "10.1613/jair.1.21232",
+        "PDF":  "https://www.jair.org/index.php/jair/article/download/21232/27357",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2026-07-03-Overcoming-Over-Fitting-in-Constraint-Acquisition",
+        "DOI":  "10.1142/S0218213026500168",
+        "PDF":  "https://arxiv.org/pdf/2509.24489",
+        "Host":  "repository",
+        "IsOA":  true
+    },
+    {
+        "File":  "2022-06-08-UAV-saffran-monitoring-process",
+        "DOI":  "10.1109/MOCAST54814.2022.9837549",
+        "PDF":  "",
+        "Host":  "",
+        "IsOA":  false
+    },
+    {
+        "File":  "2024-09-03-Constraint-Modelling-with-LLMs-Using-In-Context-Learning",
+        "DOI":  "10.4230/LIPIcs.CP.2024.20",
+        "PDF":  "",
+        "Host":  "",
+        "IsOA":  false
+    },
+    {
+        "File":  "2019-09-30-Structure-driven-multiple-constraint-acquisition",
+        "DOI":  "10.1007/978-3-030-30048-7_41",
+        "PDF":  "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03557516",
+        "Host":  "repository",
+        "IsOA":  true
+    },
+    {
+        "File":  "2018-08-01-Constrained-K-Means-Classification",
+        "DOI":  "10.48084/etasr.2149",
+        "PDF":  "http://etasr.com/index.php/ETASR/article/download/2149/pdf_1",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2019-11-11-A-review-on-UAV-based-applications-for-precision-agriculture",
+        "DOI":  "10.3390/info10110349",
+        "PDF":  "https://www.mdpi.com/2078-2489/10/11/349/pdf?version=1573470851",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2017-06-22-Automated-collagen-proportional-area-extraction-in-liver-biopsy-images-using-a-novel-classification-via-clustering-algorithm",
+        "DOI":  "10.1109/CBMS.2017.99",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2024-09-01-Enhancing-Constraint-Acquisition-through-Hybrid-Learning",
+        "DOI":  "10.1142/S0218213024500209",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2024-09-03-A-CPLS-Heuristic-Method-for-Maxmin-and-Minmax-Location-Problems-with-Distance-Constraints",
+        "DOI":  "10.4230/LIPIcs.CP.2024.14",
+        "PDF":  "",
+        "Host":  "",
+        "IsOA":  false
+    },
+    {
+        "File":  "2025-02-28-Generalizing-Constraint-Models-in-Constraint-Acquisition-AAAI",
+        "DOI":  "10.1609/aaai.v39i11.33236",
+        "PDF":  "https://ojs.aaai.org/index.php/AAAI/article/download/33236/35391",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2025-10-25-CP-Bench-Evaluating-Large-Language-Models-for-Constraint-Modelling",
+        "DOI":  "10.3233/FAIA250890",
+        "PDF":  "https://doi.org/10.3233/faia250890",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2025-12-01-Combining-Constraint-Programming-and-Machine-Learning",
+        "DOI":  "10.1613/jair.1.19533",
+        "PDF":  "https://jair.org/index.php/jair/article/download/19533/27252",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2019-05-29-An-architecture-model-for-smart-farming",
+        "DOI":  "10.1109/DCOSS.2019.00081",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2023-08-28-Guided-Bottom-Up-Interactive-Constraint-Acquisition",
+        "DOI":  "10.4230/LIPIcs.CP.2023.36",
+        "PDF":  "",
+        "Host":  "",
+        "IsOA":  false
+    },
+    {
+        "File":  "2024-09-11-The-Impact-of-Solution-Diversity-on-Passive-Constraint-Acquisition",
+        "DOI":  "10.1145/3688671.3688776",
+        "PDF":  "https://doi.org/10.1145/3688671.3688776",
+        "Host":  null,
+        "IsOA":  true
+    },
+    {
+        "File":  "2020-09-07-Omissions-in-constraint-acquisition",
+        "DOI":  "10.1007/978-3-030-58475-7_54",
+        "PDF":  "https://hal-lirmm.ccsd.cnrs.fr/lirmm-03036103",
+        "Host":  "repository",
+        "IsOA":  true
+    },
+    {
+        "File":  "2023-08-28-The-p-Dispersion-Problem-with-Distance-Constraints",
+        "DOI":  "10.4230/LIPIcs.CP.2023.29",
+        "PDF":  "",
+        "Host":  "",
+        "IsOA":  false
+    },
+    {
+        "File":  "2023-03-03-Learning-constraints-through-partial-queries",
+        "DOI":  "10.1016/j.artint.2023.103896",
+        "PDF":  "https://hal-lirmm.ccsd.cnrs.fr/lirmm-04028358/document",
+        "Host":  "repository",
+        "IsOA":  true
+    },
+    {
+        "File":  "2021-10-25-Learning-max-csps-via-active-constraint-acquisition",
+        "DOI":  "10.4230/LIPIcs.CP.2021.54",
+        "PDF":  "",
+        "Host":  "",
+        "IsOA":  false
+    },
+    {
+        "File":  "2020-09-17-Efficient-multiple-constraint-acquisition",
+        "DOI":  "10.1007/s10601-020-09311-4",
+        "PDF":  "https://arxiv.org/pdf/2109.05920",
+        "Host":  "repository",
+        "IsOA":  true
+    },
+    {
+        "File":  "2025-06-15-Addressing-Over-Fitting-in-Passive-Constraint-Acquisition",
+        "DOI":  "10.1007/978-3-032-09192-5_16",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2020-01-03-A-novel-classification-via-clustering-algorithm-for-fibrosis-assessment-in-liver-biopsies",
+        "DOI":  "10.1007/s12553-019-00405-5",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2024-02-22-Learning-to-learn-in-interactive-constraint-acquisition",
+        "DOI":  "10.1609/aaai.v38i8.28655",
+        "PDF":  "https://ojs.aaai.org/index.php/AAAI/article/download/28655/29272",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2019-05-29-Data-acquisition-and-analysis-methods-in-UAV-based-applications-for-Precision-Agriculture",
+        "DOI":  "10.1109/DCOSS.2019.00080",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2025-12-03-Solver-Free-Decision-Focused-Learning-for-Linear-Optimization-Problems",
+        "DOI":  "10.52202/079017-0483",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2018-08-27-Efficient-methods-for-constraint-acquisition",
+        "DOI":  "10.1007/978-3-319-98334-9_25",
+        "PDF":  null,
+        "Host":  null,
+        "IsOA":  false
+    },
+    {
+        "File":  "2022-05-13-Monitoring-saffron-crops-with-uavs",
+        "DOI":  "10.3390/telecom3020017",
+        "PDF":  "https://www.mdpi.com/2673-4001/3/2/17/pdf?version=1652444290",
+        "Host":  "publisher",
+        "IsOA":  true
+    },
+    {
+        "File":  "2026-05-15-Machine-Learning-Guided-Interactive-Constraint-Acquisition",
+        "DOI":  "10.1613/jair.1.19524",
+        "PDF":  "https://www.jair.org/index.php/jair/article/download/19524/27306",
+        "Host":  "publisher",
+        "IsOA":  true
+    }
+]

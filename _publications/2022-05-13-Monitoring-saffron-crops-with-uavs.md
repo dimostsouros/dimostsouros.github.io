@@ -2,7 +2,8 @@
 title: "Monitoring saffron crops with uavs"
 collection: publications
 permalink: /publication/2022-05-13-Monitoring-saffron-crops-with-uavs
-date: 2022-05-13
+date: 2022-05-13
+paperurl: 'https://www.mdpi.com/2673-4001/3/2/17/pdf'
 venue: 'In the proceedings of Telecom'
 citation: ' Konstantinos Kiropoulos,  Dimosthenis Tsouros,  Foteini Dimaraki,  Anna Triantafyllou,  Stamatia Bibi,  Panagiotis Sarigiannidis,  Pantelis Angelidis, &quot;Monitoring saffron crops with uavs.&quot; In the proceedings of Telecom, 2022.'
 ---
