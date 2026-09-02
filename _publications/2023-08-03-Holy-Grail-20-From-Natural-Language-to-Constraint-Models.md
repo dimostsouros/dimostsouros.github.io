@@ -7,4 +7,4 @@ paperurl: 'https://arxiv.org/pdf/2308.01589'
 venue: 'arXiv preprint arXiv:2308.01589'
 citation: 'Dimos Tsouros, Hélène Verhaeghe, Serdar Kadıoğlu, Tias Guns, &quot;Holy Grail 2.0: From Natural Language to Constraint Models.&quot; arXiv preprint arXiv:2308.01589, 2023.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Holy+Grail+2.0:+From+Natural+Language+to+Constraint+Models){:target="_blank"} for full citation
+Use [DBLP](https://dblp.org/rec/journals/corr/abs-2308-01589){:target="_blank"} for full citation

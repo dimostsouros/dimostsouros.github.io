@@ -8,4 +8,4 @@ paperurl: 'https://drops.dagstuhl.de/storage/00lipics/lipics-vol280-cp2023/LIPIc
 venue: 'In the proceedings of 29th International Conference on Principles and Practice of Constraint Programming (CP 2023)'
 citation: 'Nikolaos Ploskas, Kostas Stergiou, Dimosthenis Tsouros, &quot;The p-Dispersion Problem with Distance Constraints.&quot; In the proceedings of 29th International Conference on Principles and Practice of Constraint Programming (CP 2023), 2023.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=The+p+Dispersion+Problem+with+Distance+Constraints){:target="_blank"} for full citation
+Use [DBLP](https://dblp.org/rec/conf/cp/Ploskas0T23){:target="_blank"} for full citation

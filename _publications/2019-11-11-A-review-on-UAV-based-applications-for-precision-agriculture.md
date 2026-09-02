@@ -8,4 +8,4 @@ paperurl: 'https://www.mdpi.com/2078-2489/10/11/349/pdf'
 venue: 'Information'
 citation: 'Dimosthenis Tsouros, Stamatia Bibi, Panagiotis Sarigiannidis, &quot;A review on UAV-based applications for precision agriculture.&quot; Information, 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+review+on+UAV+based+applications+for+precision+agriculture){:target="_blank"} for full citation
+Use [DBLP](https://dblp.org/rec/journals/information/TsourosBS19){:target="_blank"} for full citation

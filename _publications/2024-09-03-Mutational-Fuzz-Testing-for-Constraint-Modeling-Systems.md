@@ -7,4 +7,4 @@ paperurl: 'https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIc
 venue: 'In the proceedings of 30th International Conference on Principles and Practice of Constraint Programming (CP 2024)'
 citation: 'Wout Vanroose, Ignace Bleukx, Jo Devriendt, Dimos Tsouros, Hélène Verhaeghe, Tias Guns, &quot;Mutational Fuzz Testing for Constraint Modeling Systems.&quot; In the proceedings of the 30th International Conference on Principles and Practice of Constraint Programming (CP 2024), 2024.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Mutational+Fuzz+Testing+for+Constraint+Modeling+Systems){:target="_blank"} for full citation
+Use [DBLP](https://dblp.org/rec/conf/cp/VanrooseBDTVG24){:target="_blank"} for full citation

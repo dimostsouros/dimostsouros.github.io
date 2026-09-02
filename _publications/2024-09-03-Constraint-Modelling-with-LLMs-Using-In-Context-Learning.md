@@ -8,4 +8,4 @@ paperurl: 'https://drops.dagstuhl.de/storage/00lipics/lipics-vol307-cp2024/LIPIc
 venue: 'In the proceedings of 30th International Conference on Principles and Practice of Constraint Programming'
 citation: 'Kostis Michailidis, Dimos Tsouros, Tias Guns, &quot;Constraint Modelling with LLMs Using In-Context Learning.&quot; In the proceedings of 30th International Conference on Principles and Practice of Constraint Programming, 2024.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Constraint+Modelling+with+LLMs+Using+In+Context+Learning){:target="_blank"} for full citation
+Use [DBLP](https://dblp.org/rec/conf/cp/MichailidisTG24){:target="_blank"} for full citation

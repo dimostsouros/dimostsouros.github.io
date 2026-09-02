@@ -8,4 +8,4 @@ paperurl: 'https://arxiv.org/pdf/2312.10795'
 venue: 'arXiv preprint arXiv:2312.10795'
 citation: 'Dimos Tsouros, Senne Berden, Tias Guns, &quot;Learning to Learn in Interactive Constraint Acquisition.&quot; arXiv preprint arXiv:2312.10795, 2023.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Learning+to+Learn+in+Interactive+Constraint+Acquisition){:target="_blank"} for full citation
+Use [DBLP](https://dblp.org/rec/journals/corr/abs-2312-10795){:target="_blank"} for full citation
