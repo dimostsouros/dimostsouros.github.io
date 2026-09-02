@@ -1,8 +1,8 @@
 ---
 title: "Mutational Fuzz Testing for Constraint Modeling Systems"
 collection: publications
-permalink: /publication/2024-01-01-Mutational-Fuzz-Testing-for-Constraint-Modeling-Systems
-date: 2024-01-01
+permalink: /publication/2024-09-03-Mutational-Fuzz-Testing-for-Constraint-Modeling-Systems
+date: 2024-09-03
 venue: 'In the proceedings of 30th International Conference on Principles and Practice of Constraint Programming (CP 2024)'
 citation: ' Wout Vanroose,  Ignace Bleukx,  Jo Devriendt,  Dimos Tsouros,  H{\&apos;e}l{\`e}ne Verhaeghe,  Tias Guns, &quot;Mutational Fuzz Testing for Constraint Modeling Systems.&quot; In the proceedings of 30th International Conference on Principles and Practice of Constraint Programming (CP 2024), 2024.'
 ---
