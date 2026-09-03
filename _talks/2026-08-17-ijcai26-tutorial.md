@@ -1,5 +1,5 @@
 ---
-title: "LLM-Con: Large-Language Models for Constraint Modelling"
+title: "Tutorial: Large-Language Models for Constraint Modelling"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2026-08-17-ijcai26-tutorial
